@@ -1,0 +1,19 @@
+{
+    "name": "zaratedev/bowling-game",
+    "description": "Code Kata in PHP - Bowling Game",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Zarate",
+            "email": "zaratedev@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^4.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
