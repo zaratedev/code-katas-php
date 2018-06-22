@@ -1,0 +1,19 @@
+{
+    "name": "zaratedev/roman-numerals",
+    "description": "Roman numerals",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Zarate",
+            "email": "zaratedev@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^4.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
