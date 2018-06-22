@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c446f7e-ffef-4e9d-b689-118c9ebd413e" name="Default" comment="" />
+    <list default="true" id="1c446f7e-ffef-4e9d-b689-118c9ebd413e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/roman-numerals/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman-numerals/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman-numerals/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman-numerals/spec/RomanNumeralsConverterSpec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman-numerals/src/RomanNumeralsConverter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RomanNumeralsConverterSpec.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/roman-numerals/spec/RomanNumeralsConverterSpec.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/roman-numerals/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="62" column="51" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
-              <folding>
-                <element signature="e#24#51#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanNumeralsConverter.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/roman-numerals/src/RomanNumeralsConverter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -49,6 +44,7 @@
         <option value="$PROJECT_DIR$/roman-numerals/composer.json" />
         <option value="$PROJECT_DIR$/roman-numerals/spec/RomanNumeralsConverterSpec.php" />
         <option value="$PROJECT_DIR$/roman-numerals/src/RomanNumeralsConverter.php" />
+        <option value="$PROJECT_DIR$/roman-numerals/.gitignore" />
       </list>
     </option>
   </component>
@@ -109,18 +105,6 @@
               <item name="code-katas" type="462c0819:PsiDirectoryNode" />
               <item name="roman-numerals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="roman-numerals" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="roman-numerals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,12 +141,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529691105623</updated>
       <workItem from="1529691108566" duration="2869000" />
-      <workItem from="1529693986580" duration="3864000" />
+      <workItem from="1529693986580" duration="4109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6733000" />
+    <option name="totallyTimeSpent" value="6978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="698" extended-state="6" />
@@ -251,6 +235,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roman-numerals/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
