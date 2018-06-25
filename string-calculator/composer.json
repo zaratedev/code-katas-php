@@ -1,0 +1,18 @@
+{
+    "name": "zaratedev/string-calculator",
+    "description": "String Calculator",
+    "authors": [
+        {
+            "name": "Jonathan Zarate",
+            "email": "zaratedev@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^4.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
