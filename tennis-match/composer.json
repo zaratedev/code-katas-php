@@ -1,0 +1,20 @@
+{
+    "name": "zaratedev/tennis-match",
+    "description": "Tennis Match",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Zarate",
+            "email": "zaratedev@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    }
+
+}
