@@ -25,7 +25,7 @@ class BowlingGame
 
                 continue;
             }
-            
+
 
             $score += $this->isSpare($roll) ? 10 + $this->spareBonus($roll) : $this->getDefaultFrameScore($roll);
 

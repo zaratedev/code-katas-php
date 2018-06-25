@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c446f7e-ffef-4e9d-b689-118c9ebd413e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bowling-game/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bowling-game/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bowling-game/src/BowlingGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/bowling-game/src/BowlingGame.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BowlingGame.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BowlingGame.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bowling-game/src/BowlingGame.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -46,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/spec/PrimeFactorsSpec.php" />
         <option value="$PROJECT_DIR$/src/PrimeFactors.php" />
         <option value="$PROJECT_DIR$/roman-numerals/composer.json" />
@@ -57,6 +66,7 @@
         <option value="$PROJECT_DIR$/bowling-game/.gitignore" />
         <option value="$PROJECT_DIR$/bowling-game/spec/BowlingGameSpec.php" />
         <option value="$PROJECT_DIR$/bowling-game/src/BowlingGame.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -112,23 +122,6 @@
               <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-katas" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="bowling-game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="bowling-game" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="bowling-game" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,12 +159,12 @@
       <updated>1529691105623</updated>
       <workItem from="1529691108566" duration="2869000" />
       <workItem from="1529693986580" duration="5951000" />
-      <workItem from="1529936162397" duration="5101000" />
+      <workItem from="1529936162397" duration="5750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13921000" />
+    <option name="totallyTimeSpent" value="14570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="698" extended-state="6" />
@@ -226,7 +219,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/spec/PrimeFactorsSpec.php" />
     <entry file="file://$PROJECT_DIR$/src/PrimeFactors.php" />
     <entry file="file://$PROJECT_DIR$/prime-factors/src/PrimeFactors.php">
@@ -267,13 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bowling-game/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bowling-game/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -291,10 +276,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bowling-game/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="true" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bowling-game/src/BowlingGame.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
